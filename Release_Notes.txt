@@ -1,0 +1,7 @@
+Release Notes for the CSPP_RT package - 12-Januar-2015
+===========================================================
+This LabVIEW project "CS++RT.lvproj" is used to develop the successor of the CS Framework dealing with the realtime part.
+
+Version 1.0.0.0
+===============
+This is the first official release based on LabVIEW 2014.
