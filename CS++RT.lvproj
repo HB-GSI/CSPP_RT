@@ -136,10 +136,37 @@ AddOutputFilter chunkFilter
 			<Item Name="CSPP-RTSystemHealth-SV.lvlib" Type="Library" URL="../CS++RTSystemHealth/CSPP-RTSystemHealth-SV.lvlib"/>
 			<Item Name="CS++RTWatchdog.lvlib" Type="Library" URL="../CS++RTWatchdog/CS++RTWatchdog.lvlib"/>
 			<Item Name="CS++RTMain.lvlib" Type="Library" URL="../CS++RTMain.lvlib"/>
+			<Item Name="CS++RTBaseContent.vi" Type="VI" URL="../CS++RTBaseContent.vi"/>
 			<Item Name="CS++RT-Main.vi" Type="VI" URL="../CS++RT-Main.vi"/>
 		</Item>
 		<Item Name="lib.lib" Type="Folder">
 			<Item Name="CS++LNA.lvlib" Type="Library" URL="../../CSPP_LNA/CS++LNA.lvlib"/>
+		</Item>
+		<Item Name="CSPP_Core" Type="Folder">
+			<Item Name="Actor" Type="Folder">
+				<Item Name="CS++BaseActor.lvlib" Type="Library" URL="../../CSPP_Core/Actors/CS++BaseActor/CS++BaseActor.lvlib"/>
+				<Item Name="CS++ControllerActor.lvlib" Type="Library" URL="../../CSPP_Core/Actors/CS++ControllerActor/CS++ControllerActor.lvlib"/>
+				<Item Name="CS++DeviceActor.lvlib" Type="Library" URL="../../CSPP_Core/Actors/CS++DeviceActor/CS++DeviceActor.lvlib"/>
+				<Item Name="CS++GUIActor.lvlib" Type="Library" URL="../../CSPP_Core/Actors/CS++GUIActor/CS++GUIActor.lvlib"/>
+				<Item Name="CS++PVMonitor.lvlib" Type="Library" URL="../../CSPP_Core/Actors/CS++PVMonitor/CS++PVMonitor.lvlib"/>
+				<Item Name="CS++SVMonitor.lvlib" Type="Library" URL="../../CSPP_Core/Actors/CS++SVMonitor/CS++SVMonitor.lvlib"/>
+			</Item>
+			<Item Name="Class" Type="Folder">
+				<Item Name="CS++BaseClasses.lvlib" Type="Library" URL="../../CSPP_Core/Classes/CS++BaseClasses/CS++BaseClasses.lvlib"/>
+				<Item Name="CS++ProcessVariables.lvlib" Type="Library" URL="../../CSPP_Core/Classes/CS++ProcessVariables/CS++ProcessVariables.lvlib"/>
+			</Item>
+			<Item Name="Lib" Type="Folder">
+				<Item Name="CS++Base.lvlib" Type="Library" URL="../../CSPP_Core/Libraries/Base/CS++Base.lvlib"/>
+				<Item Name="CS++Utilities.lvlib" Type="Library" URL="../../CSPP_Core/Libraries/Utilities/CS++Utilities.lvlib"/>
+			</Item>
+			<Item Name="CS++RTCoreContent.vi" Type="VI" URL="../CS++RTCoreContent.vi"/>
+		</Item>
+		<Item Name="CSPP_DeviceBase" Type="Folder">
+			<Item Name="CS++DCPwr.lvlib" Type="Library" URL="../../CSPP_DeviceBase/CS++DCPwr/CS++DCPwr.lvlib"/>
+			<Item Name="CS++DMM.lvlib" Type="Library" URL="../../CSPP_DeviceBase/CS++DMM/CS++DMM.lvlib"/>
+			<Item Name="CS++Fgen.lvlib" Type="Library" URL="../../CSPP_DeviceBase/CS++Fgen/CS++Fgen.lvlib"/>
+			<Item Name="CS++Scope.lvlib" Type="Library" URL="../../CSPP_DeviceBase/CS++Scope/CS++Scope.lvlib"/>
+			<Item Name="CS++DeviceBaseRTContent.vi" Type="VI" URL="../../CSPP_DeviceBase/CS++DeviceBaseRTContent.vi"/>
 		</Item>
 		<Item Name="Chassis" Type="sbRIO Chassis">
 			<Property Name="crio.ProgrammingMode" Type="Str">fpga</Property>
@@ -1233,11 +1260,13 @@ AddOutputFilter chunkFilter
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
 				<Item Name="DialogType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogType.ctl"/>
+				<Item Name="Get LV Class Default Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Default Value.vi"/>
+				<Item Name="Time-Delay Override Options.ctl" Type="VI" URL="/&lt;vilib&gt;/ActorFramework/Time-Delayed Send Message/Time-Delay Override Options.ctl"/>
+				<Item Name="Time-Delayed Send Message.vi" Type="VI" URL="/&lt;vilib&gt;/ActorFramework/Time-Delayed Send Message/Time-Delayed Send Message.vi"/>
+				<Item Name="Time-Delayed Send Message Core.vi" Type="VI" URL="/&lt;vilib&gt;/ActorFramework/Time-Delayed Send Message/Time-Delayed Send Message Core.vi"/>
+				<Item Name="Batch Msg.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/ActorFramework/Batch Msg/Batch Msg.lvclass"/>
 			</Item>
 			<Item Name="niwd4c.dll" Type="Document" URL="niwd4c.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
-			<Item Name="nisyscfg.dll" Type="Document" URL="nisyscfg.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 		</Item>
