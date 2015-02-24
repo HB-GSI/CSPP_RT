@@ -166,7 +166,7 @@ AddOutputFilter chunkFilter
 			<Item Name="CS++DMM.lvlib" Type="Library" URL="../../CSPP_DeviceBase/CS++DMM/CS++DMM.lvlib"/>
 			<Item Name="CS++Fgen.lvlib" Type="Library" URL="../../CSPP_DeviceBase/CS++Fgen/CS++Fgen.lvlib"/>
 			<Item Name="CS++Scope.lvlib" Type="Library" URL="../../CSPP_DeviceBase/CS++Scope/CS++Scope.lvlib"/>
-			<Item Name="CS++DeviceBaseRTContent.vi" Type="VI" URL="../../CSPP_DeviceBase/CS++DeviceBaseRTContent.vi"/>
+			<Item Name="CS++DeviceBaseRTContent.vi" Type="VI" URL="../CS++DeviceBaseRTContent.vi"/>
 		</Item>
 		<Item Name="Chassis" Type="sbRIO Chassis">
 			<Property Name="crio.ProgrammingMode" Type="Str">fpga</Property>
