@@ -130,18 +130,6 @@ AddOutputFilter chunkFilter
 		<Property Name="target.WebServer.ViAccess" Type="Str">+*</Property>
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
-		<Item Name="CSPP_RT" Type="Folder">
-			<Item Name="CS++RTRoot.lvlib" Type="Library" URL="../CS++RTRoot/CS++RTRoot.lvlib"/>
-			<Item Name="CS++RTSystemHealth.lvlib" Type="Library" URL="../CS++RTSystemHealth/CS++RTSystemHealth.lvlib"/>
-			<Item Name="CSPP-RTSystemHealth-SV.lvlib" Type="Library" URL="../CS++RTSystemHealth/CSPP-RTSystemHealth-SV.lvlib"/>
-			<Item Name="CS++RTWatchdog.lvlib" Type="Library" URL="../CS++RTWatchdog/CS++RTWatchdog.lvlib"/>
-			<Item Name="CS++RTMain.lvlib" Type="Library" URL="../CS++RTMain.lvlib"/>
-			<Item Name="CS++RTBaseContent.vi" Type="VI" URL="../CS++RTBaseContent.vi"/>
-			<Item Name="CS++RT-Main.vi" Type="VI" URL="../CS++RT-Main.vi"/>
-		</Item>
-		<Item Name="lib.lib" Type="Folder">
-			<Item Name="CS++LNA.lvlib" Type="Library" URL="../../CSPP_LNA/CS++LNA.lvlib"/>
-		</Item>
 		<Item Name="CSPP_Core" Type="Folder">
 			<Item Name="Actor" Type="Folder">
 				<Item Name="CS++BaseActor.lvlib" Type="Library" URL="../../CSPP_Core/Actors/CS++BaseActor/CS++BaseActor.lvlib"/>
@@ -167,6 +155,18 @@ AddOutputFilter chunkFilter
 			<Item Name="CS++Fgen.lvlib" Type="Library" URL="../../CSPP_DeviceBase/CS++Fgen/CS++Fgen.lvlib"/>
 			<Item Name="CS++Scope.lvlib" Type="Library" URL="../../CSPP_DeviceBase/CS++Scope/CS++Scope.lvlib"/>
 			<Item Name="CS++DeviceBaseRTContent.vi" Type="VI" URL="../CS++DeviceBaseRTContent.vi"/>
+		</Item>
+		<Item Name="CSPP_LNA" Type="Folder">
+			<Item Name="CS++LNA.lvlib" Type="Library" URL="../../CSPP_LNA/CS++LNA.lvlib"/>
+		</Item>
+		<Item Name="CSPP_RT" Type="Folder">
+			<Item Name="CS++RTRoot.lvlib" Type="Library" URL="../CS++RTRoot/CS++RTRoot.lvlib"/>
+			<Item Name="CS++RTSystemHealth.lvlib" Type="Library" URL="../CS++RTSystemHealth/CS++RTSystemHealth.lvlib"/>
+			<Item Name="CSPP-RTSystemHealth-SV.lvlib" Type="Library" URL="../CS++RTSystemHealth/CSPP-RTSystemHealth-SV.lvlib"/>
+			<Item Name="CS++RTWatchdog.lvlib" Type="Library" URL="../CS++RTWatchdog/CS++RTWatchdog.lvlib"/>
+			<Item Name="CS++RTMain.lvlib" Type="Library" URL="../CS++RTMain.lvlib"/>
+			<Item Name="CS++RTBaseContent.vi" Type="VI" URL="../CS++RTBaseContent.vi"/>
+			<Item Name="CS++RT-Main.vi" Type="VI" URL="../CS++RT-Main.vi"/>
 		</Item>
 		<Item Name="Chassis" Type="sbRIO Chassis">
 			<Property Name="crio.ProgrammingMode" Type="Str">fpga</Property>
@@ -1267,6 +1267,9 @@ AddOutputFilter chunkFilter
 				<Item Name="Batch Msg.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/ActorFramework/Batch Msg/Batch Msg.lvclass"/>
 			</Item>
 			<Item Name="niwd4c.dll" Type="Document" URL="niwd4c.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="nisyscfg.dll" Type="Document" URL="nisyscfg.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 		</Item>
