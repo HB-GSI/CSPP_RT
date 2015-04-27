@@ -165,6 +165,7 @@ AddOutputFilter chunkFilter
 			<Item Name="CSPP-RTSystemHealth-SV.lvlib" Type="Library" URL="../CS++RTSystemHealth/CSPP-RTSystemHealth-SV.lvlib"/>
 			<Item Name="CS++RTWatchdog.lvlib" Type="Library" URL="../CS++RTWatchdog/CS++RTWatchdog.lvlib"/>
 			<Item Name="CS++RTMain.lvlib" Type="Library" URL="../CS++RTMain.lvlib"/>
+			<Item Name="CS++RTClasses.lvlib" Type="Library" URL="../CS++RTClasses/CS++RTClasses.lvlib"/>
 			<Item Name="CS++RTBaseContent.vi" Type="VI" URL="../CS++RTBaseContent.vi"/>
 			<Item Name="CS++RT-Main.vi" Type="VI" URL="../CS++RT-Main.vi"/>
 		</Item>
@@ -1265,6 +1266,9 @@ AddOutputFilter chunkFilter
 				<Item Name="Time-Delayed Send Message.vi" Type="VI" URL="/&lt;vilib&gt;/ActorFramework/Time-Delayed Send Message/Time-Delayed Send Message.vi"/>
 				<Item Name="Time-Delayed Send Message Core.vi" Type="VI" URL="/&lt;vilib&gt;/ActorFramework/Time-Delayed Send Message/Time-Delayed Send Message Core.vi"/>
 				<Item Name="Batch Msg.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/ActorFramework/Batch Msg/Batch Msg.lvclass"/>
+				<Item Name="NI_Real-Time Target Support.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI_Real-Time Target Support.lvlib"/>
+				<Item Name="ni_emb.dll" Type="Document" URL="/&lt;vilib&gt;/ni_emb.dll"/>
+				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 			</Item>
 			<Item Name="niwd4c.dll" Type="Document" URL="niwd4c.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
