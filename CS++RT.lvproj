@@ -19,14 +19,21 @@ Sofern nicht durch anwendbare Rechtsvorschriften gefordert oder in schriftlicher
 
 Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind dem Lizenztext zu entnehmen.</Property>
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
+	<Property Name="varPersistentID:{1C3C3E8F-7A4D-4797-B22B-32C28DA77ED6}" Type="Ref">/eesbrio/CSPP_RT/CSPP-Core-SV-RT.lvlib/myDeviceActor_SelftestResultMessage</Property>
 	<Property Name="varPersistentID:{329AC184-7E93-4C8E-9E4A-D303A25438A3}" Type="Ref">/eesbrio/CSPP_RT/CSPP-RTSystemHealth-SV.lvlib/LNA Writer</Property>
 	<Property Name="varPersistentID:{3600692A-0746-43AC-A8D2-88EE2C187136}" Type="Ref">/eesbrio/CSPP_RT/CSPP-RTSystemHealth-SV.lvlib/Watchdog Status</Property>
+	<Property Name="varPersistentID:{3A13205C-1E99-4987-8129-9DBE56A2104B}" Type="Ref">/eesbrio/CSPP_RT/CSPP-Core-SV-RT.lvlib/myDeviceActor_FirmwareRevision</Property>
+	<Property Name="varPersistentID:{4CB1E8C8-2653-4221-9575-AF4803DDABF3}" Type="Ref">/eesbrio/CSPP_RT/CSPP-Core-SV-RT.lvlib/myDeviceActor_ErrorMessage</Property>
 	<Property Name="varPersistentID:{65AE9694-8F3C-40EE-BCFD-299FA45B6B35}" Type="Ref">/eesbrio/CSPP_RT/CSPP-RTSystemHealth-SV.lvlib/LNA Reader</Property>
 	<Property Name="varPersistentID:{8523FCED-CEC1-4C2A-8531-7D1CBF7DC2B2}" Type="Ref">/eesbrio/CSPP_RT/CSPP-RTSystemHealth-SV.lvlib/Disc Free</Property>
 	<Property Name="varPersistentID:{8C3798E3-C285-4DD1-AA79-EBADCB1E5D93}" Type="Ref">/eesbrio/CSPP_RT/CSPP-RTSystemHealth-SV.lvlib/LNA Return Msg</Property>
+	<Property Name="varPersistentID:{920CA053-F244-448D-BDD5-20F3E0EB2F73}" Type="Ref">/eesbrio/CSPP_RT/CSPP-Core-SV-RT.lvlib/myDeviceActor_SelftestResultCode</Property>
 	<Property Name="varPersistentID:{97951AC9-0E26-4B38-AF40-417F6319B36D}" Type="Ref">/eesbrio/CSPP_RT/CSPP-RTSystemHealth-SV.lvlib/Disc Size</Property>
 	<Property Name="varPersistentID:{9B8F1714-F96E-4F10-831B-58FB173157DB}" Type="Ref">/eesbrio/CSPP_RT/CSPP-RTSystemHealth-SV.lvlib/System Status</Property>
 	<Property Name="varPersistentID:{A40D0221-84C9-4FC0-A809-92D4819E194B}" Type="Ref">/eesbrio/CSPP_RT/CSPP-RTSystemHealth-SV.lvlib/LNA Name</Property>
+	<Property Name="varPersistentID:{B3936BC8-4FD0-4839-9E86-230826CBA8DA}" Type="Ref">/eesbrio/CSPP_RT/CSPP-Core-SV-RT.lvlib/myDeviceActor_DriverRevision</Property>
+	<Property Name="varPersistentID:{DA0B06B8-760E-45A9-9039-CB56887C9D80}" Type="Ref">/eesbrio/CSPP_RT/CSPP-Core-SV-RT.lvlib/myDeviceActor_ErrorCode</Property>
+	<Property Name="varPersistentID:{DC6F5991-E698-405C-9123-3A61FD082932}" Type="Ref">/eesbrio/CSPP_RT/CSPP-Core-SV-RT.lvlib/myDeviceActor_ResourceName</Property>
 	<Property Name="varPersistentID:{E2B6D096-EBD6-4BDA-86CD-F8BD34881E2F}" Type="Ref">/eesbrio/CSPP_RT/CSPP-RTSystemHealth-SV.lvlib/LNA Ping Counter</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="IOScan.Faults" Type="Str"></Property>
@@ -54,7 +61,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Item Name="eesbrio" Type="RT Single-Board RIO">
 		<Property Name="alias.name" Type="Str">eesbrio</Property>
 		<Property Name="alias.value" Type="Str">140.181.67.6</Property>
-		<Property Name="CCSymbols" Type="Str">TARGET_TYPE,RT;OS,VxWorks;CPU,PowerPC;DeviceCode,758B;</Property>
+		<Property Name="CCSymbols" Type="Str">OS,VxWorks;CPU,PowerPC;DeviceCode,758B;LaunchDeviceActor,False;TARGET_TYPE,RT;</Property>
 		<Property Name="crio.ControllerPID" Type="Str">758B</Property>
 		<Property Name="host.ResponsivenessCheckEnabled" Type="Bool">true</Property>
 		<Property Name="host.ResponsivenessCheckPingDelay" Type="UInt">5000</Property>
@@ -171,6 +178,7 @@ AddOutputFilter chunkFilter
 			<Item Name="CS++RTWatchdog.lvlib" Type="Library" URL="../CS++RTWatchdog/CS++RTWatchdog.lvlib"/>
 			<Item Name="CS++RTMain.lvlib" Type="Library" URL="../CS++RTMain.lvlib"/>
 			<Item Name="CS++RTClasses.lvlib" Type="Library" URL="../CS++RTClasses/CS++RTClasses.lvlib"/>
+			<Item Name="CSPP-Core-SV-RT.lvlib" Type="Library" URL="../CSPP-Core-SV-RT.lvlib"/>
 			<Item Name="CS++RTBaseContent.vi" Type="VI" URL="../CS++RTBaseContent.vi"/>
 			<Item Name="CS++RT-Main.vi" Type="VI" URL="../CS++RT-Main.vi"/>
 		</Item>
@@ -1272,6 +1280,9 @@ AddOutputFilter chunkFilter
 				<Item Name="ni_emb.dll" Type="Document" URL="/&lt;vilib&gt;/ni_emb.dll"/>
 			</Item>
 			<Item Name="niwd4c.dll" Type="Document" URL="niwd4c.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="nisyscfg.dll" Type="Document" URL="nisyscfg.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 		</Item>

@@ -2,6 +2,10 @@
 <Library LVVersion="14008000">
 	<Property Name="NI.Lib.Description" Type="Str">This library contains the CS++RTMainActor ancestor class for the actual RT application. It will launch nested actors, e.g. Linked Network Actor.
 
+Conditional Disable Symbols:
+&lt;b&gt;LaunchDeviceActor&lt;/b&gt;:={False=Default,True}
+If True then CSPP-Core-SV-RT.lvlib must be deployed!
+
 Author: H.Brand@gsi.de, D.Neidherr@gsi.de
 
 Copyright 2014  GSI Helmholtzzentrum für Schwerionenforschung GmbH
