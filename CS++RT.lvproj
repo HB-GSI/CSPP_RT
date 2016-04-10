@@ -38,6 +38,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Property Name="varPersistentID:{1D848F48-2B87-4845-9804-F0DB3BA464D9}" Type="Ref">/dveert05/Chassis/Mod2/AI5</Property>
 	<Property Name="varPersistentID:{1E395862-A44E-41B9-994A-3272C284ACB3}" Type="Ref">/dveert05/Chassis/Mod3/DIO15</Property>
 	<Property Name="varPersistentID:{1E7264B1-360C-42E9-B962-B4AE934F2868}" Type="Ref">/dveert05/Chassis/Mod2/AI17</Property>
+	<Property Name="varPersistentID:{1F10D8E5-00F6-4F6C-8DD2-B41974456408}" Type="Ref">/dveert05/CSPP_RT/CSPP-Core-SV-RT.lvlib/myDeviceActor_SelfTest</Property>
 	<Property Name="varPersistentID:{26C18866-6191-4FD1-A4F6-4FC4F3ED7F62}" Type="Ref">/dveert05/Chassis/Mod2/AI22</Property>
 	<Property Name="varPersistentID:{2E9C54BC-008C-4EAD-A4FF-AEF9BC95F874}" Type="Ref">/dveert05/Chassis/Mod1/AO0</Property>
 	<Property Name="varPersistentID:{2FD6AA8E-D72E-4030-8D63-5F0EC9FF542E}" Type="Ref">/dveert05/CSPP_RT/CSPP-RTSystemHealth-SV.lvlib/Disc Free V</Property>
@@ -62,10 +63,12 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Property Name="varPersistentID:{65AE9694-8F3C-40EE-BCFD-299FA45B6B35}" Type="Ref">/dveert05/CSPP_RT/CSPP-RTSystemHealth-SV.lvlib/LNA Reader</Property>
 	<Property Name="varPersistentID:{67E94240-BC13-489A-8C77-3BA8C045CDD5}" Type="Ref">/dveert05/Chassis/Mod4/RTD3</Property>
 	<Property Name="varPersistentID:{6FE7F9E1-9E70-4975-ADA8-C60F960D6EF8}" Type="Ref">/dveert05/Chassis/Mod2/AI15</Property>
+	<Property Name="varPersistentID:{7156BE64-FEB9-4522-BC88-1ECCCF78EC48}" Type="Ref">/dveert05/CSPP_RT/CSPP-Core-SV-RT.lvlib/myDeviceActor_Reset</Property>
 	<Property Name="varPersistentID:{74BB1E8B-95BA-4ECC-A9B9-D8159D81FFAE}" Type="Ref">/dveert05/Chassis/Mod2/AI16</Property>
 	<Property Name="varPersistentID:{751F6126-BD02-4047-B45F-9B71789F29BE}" Type="Ref">/dveert05/Chassis/Mod2/AI11</Property>
 	<Property Name="varPersistentID:{75F2F71F-B7E6-409E-B28D-F9050AA6EAA9}" Type="Ref">/dveert05/Chassis/Mod3/DIO11</Property>
 	<Property Name="varPersistentID:{7878EE1B-78BA-4096-9087-DDE30929765A}" Type="Ref">/dveert05/Chassis/Mod2/AI19</Property>
+	<Property Name="varPersistentID:{7A42505E-FEF3-418D-BA20-84A763959B3B}" Type="Ref">/dveert05/CSPP_RT/CSPP-Core-SV-RT.lvlib/myDeviceActor_PollingMode</Property>
 	<Property Name="varPersistentID:{7D3B2ACB-951D-47E9-8482-19859CFF9866}" Type="Ref">/dveert05/Chassis/Mod3/DIO0</Property>
 	<Property Name="varPersistentID:{7F1544E5-4FB2-4CA5-93B9-7F499D3F1CEF}" Type="Ref">/dveert05/Chassis/Mod2/AI30</Property>
 	<Property Name="varPersistentID:{8132CB96-6A71-4966-B991-083F4D02280C}" Type="Ref">/dveert05/Chassis/Mod4/RTD1</Property>
@@ -79,10 +82,13 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Property Name="varPersistentID:{8C3798E3-C285-4DD1-AA79-EBADCB1E5D93}" Type="Ref">/dveert05/CSPP_RT/CSPP-RTSystemHealth-SV.lvlib/LNA Return Msg</Property>
 	<Property Name="varPersistentID:{8CAFF191-58E1-4D7D-90D1-562CC8AB23C9}" Type="Ref">/dveert05/CSPP_RT/CSPP-RTSystemHealth-SV.lvlib/Disc Free U</Property>
 	<Property Name="varPersistentID:{920CA053-F244-448D-BDD5-20F3E0EB2F73}" Type="Ref">/dveert05/CSPP_RT/CSPP-Core-SV-RT.lvlib/myDeviceActor_SelftestResultCode</Property>
+	<Property Name="varPersistentID:{9A9ED533-0FBE-4084-A05B-2364B748F928}" Type="Ref">/dveert05/CSPP_RT/CSPP-Core-SV-RT.lvlib/myDeviceProxy_Activate</Property>
 	<Property Name="varPersistentID:{9B8F1714-F96E-4F10-831B-58FB173157DB}" Type="Ref">/dveert05/CSPP_RT/CSPP-RTSystemHealth-SV.lvlib/System Status</Property>
 	<Property Name="varPersistentID:{9ED32F0A-9C9E-474B-A7AB-4FD43A91CF58}" Type="Ref">/dveert05/Chassis/Mod2/AI3</Property>
+	<Property Name="varPersistentID:{A1DD1D9A-0070-4BAF-B976-030D777E4B1E}" Type="Ref">/dveert05/CSPP_RT/CSPP-Core-SV-RT.lvlib/myDeviceActor_PollingInterval</Property>
 	<Property Name="varPersistentID:{A314A9C9-2E2D-4145-BE3E-88E26615A79D}" Type="Ref">/dveert05/Chassis/Mod2/AI7</Property>
 	<Property Name="varPersistentID:{A40D0221-84C9-4FC0-A809-92D4819E194B}" Type="Ref">/dveert05/CSPP_RT/CSPP-RTSystemHealth-SV.lvlib/LNA Name</Property>
+	<Property Name="varPersistentID:{A58D5608-CADC-45C7-B89F-0B77382ADCFB}" Type="Ref">/dveert05/CSPP_RT/CSPP-Core-SV-RT.lvlib/myDeviceActor_PollingStartStop</Property>
 	<Property Name="varPersistentID:{A5F1ABD3-2E64-4F26-B4B7-2F7670F38A77}" Type="Ref">/dveert05/Chassis/Mod3/DIO23</Property>
 	<Property Name="varPersistentID:{A6AF6E49-942D-4B47-BD04-0E77B013A3D3}" Type="Ref">/dveert05/Chassis/Mod3/DIO16</Property>
 	<Property Name="varPersistentID:{A88E769A-2F20-4200-AC0D-56254FD6C21D}" Type="Ref">/dveert05/CSPP_RT/CSPP-RTSystemHealth-SV.lvlib/Disc Size V</Property>
@@ -95,11 +101,13 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Property Name="varPersistentID:{B423710D-95C7-4EDC-8186-3309678046D3}" Type="Ref">/dveert05/Chassis/Mod3/DIO9</Property>
 	<Property Name="varPersistentID:{B58D06A4-BD68-4CD1-B75B-11295607122E}" Type="Ref">/dveert05/Chassis/Mod3/DIO2</Property>
 	<Property Name="varPersistentID:{B5B70F28-A3D7-4142-AA91-C56229D41DC4}" Type="Ref">/dveert05/Chassis/Mod3/DIO17</Property>
+	<Property Name="varPersistentID:{B6A43321-EF5C-4CB3-A893-6D25E884D501}" Type="Ref">/dveert05/CSPP_RT/CSPP-Core-SV-RT.lvlib/myDeviceProxy_WorkerActor</Property>
 	<Property Name="varPersistentID:{BC0436FB-E18E-4C31-A6F5-544F56C13831}" Type="Ref">/dveert05/Chassis/Mod2/AI27</Property>
 	<Property Name="varPersistentID:{BC171E9D-27CE-4FCA-B841-25861D558A34}" Type="Ref">/dveert05/Chassis/Mod2/AI2</Property>
 	<Property Name="varPersistentID:{BC786B62-B4A5-4A97-8808-D4C0DED655DF}" Type="Ref">/dveert05/Chassis/Mod2/AI31</Property>
 	<Property Name="varPersistentID:{BF5A4F66-0A35-431D-9F95-69D28A8C22EE}" Type="Ref">/dveert05/Chassis/Mod3/DIO28</Property>
 	<Property Name="varPersistentID:{C76FB3FE-FA4F-4CA9-9916-D1AE9CE40D99}" Type="Ref">/dveert05/Chassis/Mod2/AI20</Property>
+	<Property Name="varPersistentID:{D40BE3FA-1007-46FD-9453-5421D77A7BE5}" Type="Ref">/dveert05/CSPP_RT/CSPP-Core-SV-RT.lvlib/myDeviceActor_PollingTime</Property>
 	<Property Name="varPersistentID:{D8F956FC-8E4A-4D68-987E-09CD2DD6E35A}" Type="Ref">/dveert05/Chassis/Mod3/DIO27</Property>
 	<Property Name="varPersistentID:{DA0B06B8-760E-45A9-9039-CB56887C9D80}" Type="Ref">/dveert05/CSPP_RT/CSPP-Core-SV-RT.lvlib/myDeviceActor_ErrorCode</Property>
 	<Property Name="varPersistentID:{DC6F5991-E698-405C-9123-3A61FD082932}" Type="Ref">/dveert05/CSPP_RT/CSPP-Core-SV-RT.lvlib/myDeviceActor_ResourceName</Property>
@@ -2649,6 +2657,7 @@ AddOutputFilter chunkFilter
 				<Item Name="Time-Delayed Send Message Core.vi" Type="VI" URL="/&lt;vilib&gt;/ActorFramework/Time-Delayed Send Message/Time-Delayed Send Message Core.vi"/>
 				<Item Name="Time-Delayed Send Message.vi" Type="VI" URL="/&lt;vilib&gt;/ActorFramework/Time-Delayed Send Message/Time-Delayed Send Message.vi"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
+				<Item Name="usereventprio.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/usereventprio.ctl"/>
 				<Item Name="VariantType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/VariantDataType/VariantType.lvlib"/>
 				<Item Name="Watchdog Acknowledge.vi" Type="VI" URL="/&lt;vilib&gt;/RTwatchdog.llb/Watchdog Acknowledge.vi"/>
 				<Item Name="Watchdog Add Interrupt Action.vi" Type="VI" URL="/&lt;vilib&gt;/RTwatchdog.llb/Watchdog Add Interrupt Action.vi"/>
@@ -2667,7 +2676,15 @@ AddOutputFilter chunkFilter
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
+			<Item Name="CS++DCPwr.lvclass" Type="LVClass" URL="../../CSPP_DeviceBase/CS++DCPwr/CS++DCPwr.lvclass"/>
+			<Item Name="CS++DMM.lvclass" Type="LVClass" URL="../../CSPP_DeviceBase/CS++DMM/CS++DMM.lvclass"/>
+			<Item Name="CS++Fgen.lvclass" Type="LVClass" URL="../../CSPP_DeviceBase/CS++Fgen/CS++Fgen.lvclass"/>
+			<Item Name="CS++Scope.lvclass" Type="LVClass" URL="../../CSPP_DeviceBase/CS++Scope/CS++Scope.lvclass"/>
+			<Item Name="CS++SharedVariables.lvlib" Type="Library" URL="../../CSPP_Core/Classes/CS++ProcessVariables/SVConnection/CS++SharedVariables.lvlib"/>
 			<Item Name="LV Config Read String.vi" Type="VI" URL="/&lt;resource&gt;/dialog/lvconfig.llb/LV Config Read String.vi"/>
+			<Item Name="nisyscfg.dll" Type="Document" URL="nisyscfg.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
 			<Item Name="niwd4c.dll" Type="Document" URL="niwd4c.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
