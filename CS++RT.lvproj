@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="15008000">
+<Project Type="Project" LVVersion="16008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str">This LabVIEW project "CS++RT.lvproj" is used to develop the successor of the CS Framework. It contains the Realtime part of the class library.
 
@@ -1407,7 +1407,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AO1" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1422,7 +1422,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AO2" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1437,7 +1437,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AO3" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1452,7 +1452,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 			</Item>
 			<Item Name="Mod2" Type="RIO C Series Module">
@@ -1545,7 +1545,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI1" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1560,7 +1560,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI2" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1575,7 +1575,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI3" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1590,7 +1590,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI4" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1605,7 +1605,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI5" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1620,7 +1620,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI6" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1635,7 +1635,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI7" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1650,7 +1650,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI8" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1665,7 +1665,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI9" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1680,7 +1680,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI10" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1695,7 +1695,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI11" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1710,7 +1710,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI12" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1725,7 +1725,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI13" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1740,7 +1740,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI14" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1755,7 +1755,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI15" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1770,7 +1770,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI16" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1785,7 +1785,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI17" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1800,7 +1800,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI18" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1815,7 +1815,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI19" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1830,7 +1830,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI20" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1845,7 +1845,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI21" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1860,7 +1860,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI22" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1875,7 +1875,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI23" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1890,7 +1890,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI24" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1905,7 +1905,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI25" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1920,7 +1920,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI26" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1935,7 +1935,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI27" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1950,7 +1950,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI28" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1965,7 +1965,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI29" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1980,7 +1980,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI30" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -1995,7 +1995,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="AI31" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2010,7 +2010,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 			</Item>
 			<Item Name="Mod3" Type="RIO C Series Module">
@@ -2039,7 +2039,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO1" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2054,7 +2054,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO2" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2069,7 +2069,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO3" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2084,7 +2084,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO4" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2099,7 +2099,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO5" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2114,7 +2114,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO6" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2129,7 +2129,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO7" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2144,7 +2144,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO8" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2159,7 +2159,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO9" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2174,7 +2174,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO10" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2189,7 +2189,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO11" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2204,7 +2204,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO12" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2219,7 +2219,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO13" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2234,7 +2234,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO14" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2249,7 +2249,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO15" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2264,7 +2264,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO16" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2279,7 +2279,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO17" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2294,7 +2294,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO18" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2309,7 +2309,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO19" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2324,7 +2324,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO20" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2339,7 +2339,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO21" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2354,7 +2354,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO22" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2369,7 +2369,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO23" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2384,7 +2384,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO24" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2399,7 +2399,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO25" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2414,7 +2414,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO26" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2429,7 +2429,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO27" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2444,7 +2444,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO28" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2459,7 +2459,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO29" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2474,7 +2474,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO30" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2489,7 +2489,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="DIO31" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2504,7 +2504,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 			</Item>
 			<Item Name="Mod4" Type="RIO C Series Module">
@@ -2556,7 +2556,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="RTD1" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2571,7 +2571,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="RTD2" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2586,7 +2586,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 				<Item Name="RTD3" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
@@ -2601,7 +2601,7 @@ AddOutputFilter chunkFilter
 					<Property Name="Network:UseBuffering" Type="Str">True</Property>
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 			</Item>
 		</Item>
@@ -2676,15 +2676,8 @@ AddOutputFilter chunkFilter
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
-			<Item Name="CS++DCPwr.lvclass" Type="LVClass" URL="../../CSPP_DeviceBase/CS++DCPwr/CS++DCPwr.lvclass"/>
-			<Item Name="CS++DMM.lvclass" Type="LVClass" URL="../../CSPP_DeviceBase/CS++DMM/CS++DMM.lvclass"/>
-			<Item Name="CS++Fgen.lvclass" Type="LVClass" URL="../../CSPP_DeviceBase/CS++Fgen/CS++Fgen.lvclass"/>
-			<Item Name="CS++Scope.lvclass" Type="LVClass" URL="../../CSPP_DeviceBase/CS++Scope/CS++Scope.lvclass"/>
 			<Item Name="CS++SharedVariables.lvlib" Type="Library" URL="../../CSPP_Core/Classes/CS++ProcessVariables/SVConnection/CS++SharedVariables.lvlib"/>
 			<Item Name="LV Config Read String.vi" Type="VI" URL="/&lt;resource&gt;/dialog/lvconfig.llb/LV Config Read String.vi"/>
-			<Item Name="nisyscfg.dll" Type="Document" URL="nisyscfg.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
 			<Item Name="niwd4c.dll" Type="Document" URL="niwd4c.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
