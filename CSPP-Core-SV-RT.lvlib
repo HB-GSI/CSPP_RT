@@ -5,7 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="myDeviceActor_DriverRevision" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
+		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Initial Value:Value" Type="Str"></Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
@@ -45,7 +45,7 @@
 		<Property Name="Alarming:LoLo:Enabled" Type="Str">False</Property>
 		<Property Name="Alarming:ROC:Enabled" Type="Str">False</Property>
 		<Property Name="Alarming:Status:Enabled" Type="Str">False</Property>
-		<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
+		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Initial Value:Value" Type="Str">0</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
@@ -59,7 +59,7 @@
 		<Property Name="typeDesc" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"5!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="myDeviceActor_ErrorMessage" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
+		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Initial Value:Value" Type="Str"></Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
@@ -73,7 +73,7 @@
 		<Property Name="typeDesc" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"5!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="myDeviceActor_FirmwareRevision" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
+		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Initial Value:Value" Type="Str"></Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
@@ -145,7 +145,7 @@
 		<Property Name="typeDesc" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="myDeviceActor_ResourceName" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Initial Value,Network</Property>
+		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Initial Value:Value" Type="Str"></Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
@@ -173,7 +173,7 @@
 		<Property Name="typeDesc" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="myDeviceActor_SelftestResultCode" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
+		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Initial Value:Value" Type="Str">0</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
@@ -187,7 +187,7 @@
 		<Property Name="typeDesc" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"5!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="myDeviceActor_SelftestResultMessage" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Initial Value,Network</Property>
+		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Initial Value:Value" Type="Str"></Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
