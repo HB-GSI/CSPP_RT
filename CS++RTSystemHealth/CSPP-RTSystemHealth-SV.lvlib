@@ -147,7 +147,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 		<Property Name="Description:Description" Type="Str">0: Disabled
 1: Expired
 2: Running</Property>
-		<Property Name="featurePacks" Type="Str">Description,Initial Value,Network</Property>
+		<Property Name="featurePacks" Type="Str">Description,Network</Property>
 		<Property Name="Initial Value:Value" Type="Str">0.000000</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:SingleWriter" Type="Str">True</Property>
